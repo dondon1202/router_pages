@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o as t,c as r}from"./index-2b654c56.js";const o={},s={class:"text-6xl text-white bg-slate-800 text-center py-4 flex self-center justify-center mt-8"};function c(n,a,_,f,p,i){return t(),r("h1",s," ERROR 404 ")}const m=e(o,[["render",c]]);export{m as default};

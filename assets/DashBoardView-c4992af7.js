@@ -1,0 +1,1 @@
+import{o as a,c as s,a as o,b as e,w as r,u as t,F as c,d as n,R as l,e as _}from"./index-2b654c56.js";const d={class:"flex mt-8"},p={__name:"DashBoardView",setup(i){return(u,x)=>(a(),s(c,null,[o("div",d,[e(t(l),{to:"/admin",class:"text-xl text-white bg-slate-800 text-center p-4 w-[200px] m-4"},{default:r(()=>[n("後台產品頁")]),_:1})]),e(t(_))],64))}};export{p as default};

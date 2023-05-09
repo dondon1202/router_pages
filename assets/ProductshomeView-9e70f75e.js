@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{o as t,c as o}from"./index-2b654c56.js";const c={},r={class:"text-6xl mt-8 m-4"};function s(n,_){return t(),o("h1",r,"這是前台產品首頁")}const f=e(c,[["render",s]]);export{f as default};
